@@ -1,0 +1,9 @@
+[package]
+name = "love-on"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "A placeholder."
+homepage = "https://github.com/lenovo-it/love-on"
+repository = "https://github.com/lenovo-it/love-on"
+readme = "README.md"
